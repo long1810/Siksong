@@ -13,8 +13,8 @@ Direct3D:
     VRAM:     3986 MB
     Driver:   26.20.100.7926
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  7.026 seconds
-- Finished resetting the current domain, in  0.003 seconds
+- Loaded All Assemblies, in  8.191 seconds
+- Finished resetting the current domain, in  0.004 seconds
 [Physics::Module] Selected backend.
 [Physics::Module] Name: PhysX
 [Physics::Module] Id: 0xf2b8ea05
@@ -25,332 +25,49 @@ Begin MonoManager ReloadAssembly
 XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.477500 ms
+UnloadTime: 3.600300 ms
 Steam initializing
 Steam failed to initialize
 Selected online subsystem SteamOnlineSubsystem
 Unloading 5 Unused Serialized files (Serialized files now loaded: 527)
-UnloadTime: 1.863900 ms
+UnloadTime: 3.564100 ms
 Discovered supported languages: DE, EN, ES, FR, IT, JA, KO, PT, RU, ZH
 Loaded saved language code 'EN'
 Restored language code 'EN'
 Couldn't find a Game Manager, make sure one exists in the scene.
 Couldn't find GameCameras, make sure one exists in the scene.
 Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 6108.
-Total: 4.991700 ms (FindLiveObjects: 0.328600 ms CreateObjectMapping: 0.693100 ms MarkObjects: 3.923800 ms  DeleteObjects: 0.046000 ms)
+Total: 8.553700 ms (FindLiveObjects: 0.504600 ms CreateObjectMapping: 0.513500 ms MarkObjects: 7.439400 ms  DeleteObjects: 0.096000 ms)
 
 Unloading 2 Unused Serialized files (Serialized files now loaded: 527)
 Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 13326.
-Total: 7.664800 ms (FindLiveObjects: 0.660200 ms CreateObjectMapping: 1.246500 ms MarkObjects: 5.729800 ms  DeleteObjects: 0.028000 ms)
+Total: 17.507000 ms (FindLiveObjects: 1.503500 ms CreateObjectMapping: 1.228000 ms MarkObjects: 14.725700 ms  DeleteObjects: 0.049100 ms)
 
 Unloading 1 Unused Serialized files (Serialized files now loaded: 579)
 Couldn't find GameCameras, make sure one exists in the scene.
 Couldn't find a Game Manager, make sure one exists in the scene.
-UnloadTime: 7.458900 ms
+UnloadTime: 13.943900 ms
 Loaded saved language code 'EN'
 Restored language code 'EN'
 Unloading 73 unused Assets to reduce memory usage. Loaded Objects now: 66301.
-Total: 47.566800 ms (FindLiveObjects: 4.493000 ms CreateObjectMapping: 3.917600 ms MarkObjects: 38.889500 ms  DeleteObjects: 0.266400 ms)
+Total: 47.658000 ms (FindLiveObjects: 5.230900 ms CreateObjectMapping: 3.957600 ms MarkObjects: 38.169100 ms  DeleteObjects: 0.299800 ms)
 
 MenuButton missing flashEffect!
 Making UI menu lean.
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Unloading 3 Unused Serialized files (Serialized files now loaded: 590)
-Unloading 282 unused Assets to reduce memory usage. Loaded Objects now: 112430.
-Total: 95.978200 ms (FindLiveObjects: 9.867300 ms CreateObjectMapping: 6.487000 ms MarkObjects: 78.079300 ms  DeleteObjects: 1.544000 ms)
-
-Converting Vertex Colors from Color32 to Color.
-Converting Vertex Colors from Color32 to Color.
-Converting Vertex Colors from Color32 to Color.
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Unloading 1 Unused Serialized files (Serialized files now loaded: 596)
-UnloadTime: 10.332800 ms
-Unloading 6086 unused Assets to reduce memory usage. Loaded Objects now: 131129.
-Total: 133.229800 ms (FindLiveObjects: 13.424400 ms CreateObjectMapping: 4.684400 ms MarkObjects: 99.747900 ms  DeleteObjects: 15.372700 ms)
-
-First video frame not zero: 4 (0.066667s). Result may be out of sync. Please make sure tracks all start at 0 in archive:/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5.resource
-Unloading 2 Unused Serialized files (Serialized files now loaded: 610)
-Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 146105.
-Total: 96.111300 ms (FindLiveObjects: 10.809500 ms CreateObjectMapping: 4.335900 ms MarkObjects: 80.736500 ms  DeleteObjects: 0.229000 ms)
-
-Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
-Unloading 1 Unused Serialized files (Serialized files now loaded: 607)
-Unloading 2585 unused Assets to reduce memory usage. Loaded Objects now: 146440.
-Total: 127.437200 ms (FindLiveObjects: 12.200300 ms CreateObjectMapping: 4.255100 ms MarkObjects: 91.114400 ms  DeleteObjects: 19.867000 ms)
-
-Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
-Unloading 1 Unused Serialized files (Serialized files now loaded: 607)
-Unloading 2572 unused Assets to reduce memory usage. Loaded Objects now: 146493.
-Total: 123.879400 ms (FindLiveObjects: 12.684400 ms CreateObjectMapping: 5.863100 ms MarkObjects: 85.799900 ms  DeleteObjects: 19.531600 ms)
-
-Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
-Unloading 1 Unused Serialized files (Serialized files now loaded: 607)
-Unloading 2572 unused Assets to reduce memory usage. Loaded Objects now: 146538.
-Total: 126.033100 ms (FindLiveObjects: 14.918000 ms CreateObjectMapping: 4.173600 ms MarkObjects: 87.072900 ms  DeleteObjects: 19.868200 ms)
-
-Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
-Unloading 1 Unused Serialized files (Serialized files now loaded: 607)
-Unloading 2572 unused Assets to reduce memory usage. Loaded Objects now: 146580.
-Total: 128.166900 ms (FindLiveObjects: 12.617900 ms CreateObjectMapping: 4.212800 ms MarkObjects: 91.519500 ms  DeleteObjects: 19.816300 ms)
-
-Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
-Unloading 1 Unused Serialized files (Serialized files now loaded: 607)
-Unloading 2572 unused Assets to reduce memory usage. Loaded Objects now: 146641.
-Total: 132.164200 ms (FindLiveObjects: 12.217900 ms CreateObjectMapping: 4.208200 ms MarkObjects: 96.093000 ms  DeleteObjects: 19.644900 ms)
-
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
-Unloading 1 Unused Serialized files (Serialized files now loaded: 607)
-Unloading 2572 unused Assets to reduce memory usage. Loaded Objects now: 146681.
-Total: 129.034300 ms (FindLiveObjects: 11.997600 ms CreateObjectMapping: 4.759400 ms MarkObjects: 90.366600 ms  DeleteObjects: 21.910400 ms)
-
-Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
-Unloading 1 Unused Serialized files (Serialized files now loaded: 607)
-Unloading 2572 unused Assets to reduce memory usage. Loaded Objects now: 146723.
-Total: 129.619500 ms (FindLiveObjects: 12.630900 ms CreateObjectMapping: 4.433200 ms MarkObjects: 92.374100 ms  DeleteObjects: 20.180900 ms)
-
-Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
-Unloading 1 Unused Serialized files (Serialized files now loaded: 607)
-Unloading 2572 unused Assets to reduce memory usage. Loaded Objects now: 146832.
-Total: 129.462300 ms (FindLiveObjects: 11.776700 ms CreateObjectMapping: 4.535700 ms MarkObjects: 93.279700 ms  DeleteObjects: 19.869700 ms)
-
-Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
-Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
-Unable to retrieve achievement state for DEFEATED_TROBBIO, because Steam is not initialized
-Unable to unlock achievement DEFEATED_TROBBIO, because Steam is not initialized
-Unable to retrieve achievement state for FIRST_TOOL, because Steam is not initialized
-Unable to update achievement progress for ALL_TOOLS, because Steam is not initialized
-Cannot use 'linearVelocity' on a static body.
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Cannot use 'linearVelocity' on a static body.
-Coroutine couldn't be started because the the game object 'Slash Hit' is inactive!
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-NullReferenceException: Object reference not set to an instance of an object.
-  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
-  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
-
-NullReferenceException: Object reference not set to an instance of an object.
-  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
-  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
-
-NullReferenceException: Object reference not set to an instance of an object.
-  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
-  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
-
-NullReferenceException: Object reference not set to an instance of an object.
-  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
-  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
-
-NullReferenceException: Object reference not set to an instance of an object.
-  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
-  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
-
-NullReferenceException: Object reference not set to an instance of an object.
-  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
-  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
-
-NullReferenceException: Object reference not set to an instance of an object.
-  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
-  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
-
-NullReferenceException: Object reference not set to an instance of an object.
-  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
-  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
-
-NullReferenceException: Object reference not set to an instance of an object.
-  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
-  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
-
-NullReferenceException: Object reference not set to an instance of an object.
-  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
-  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
-
-NullReferenceException: Object reference not set to an instance of an object.
-  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
-  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
-
-NullReferenceException: Object reference not set to an instance of an object.
-  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
-  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
-
-NullReferenceException: Object reference not set to an instance of an object.
-  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
-  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
-
-NullReferenceException: Object reference not set to an instance of an object.
-  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
-  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
-
-NullReferenceException: Object reference not set to an instance of an object.
-  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
-  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
-
-NullReferenceException: Object reference not set to an instance of an object.
-  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
-  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
-
-NullReferenceException: Object reference not set to an instance of an object.
-  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
-  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
-
-NullReferenceException: Object reference not set to an instance of an object.
-  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
-  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
-
-NullReferenceException: Object reference not set to an instance of an object.
-  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
-  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
-
-NullReferenceException: Object reference not set to an instance of an object.
-  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
-  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
-
-NullReferenceException: Object reference not set to an instance of an object.
-  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
-  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
-
-NullReferenceException: Object reference not set to an instance of an object.
-  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
-  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
-
-NullReferenceException: Object reference not set to an instance of an object.
-  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
-  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
-
-NullReferenceException: Object reference not set to an instance of an object.
-  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
-  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
-
-NullReferenceException: Object reference not set to an instance of an object.
-  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
-  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
-
-NullReferenceException: Object reference not set to an instance of an object.
-  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
-  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
-
-NullReferenceException: Object reference not set to an instance of an object.
-  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
-  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
-
-NullReferenceException: Object reference not set to an instance of an object.
-  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
-  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
-
-NullReferenceException: Object reference not set to an instance of an object.
-  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
-  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
-
-NullReferenceException: Object reference not set to an instance of an object.
-  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
-  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
-
-Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
-Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
-Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
-Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
-Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
-Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
-Hazard Respawn Trigger v2 (3) does not have a Hazard Respawn Marker Set
-Hazard Respawn Trigger v2 (2) does not have a Hazard Respawn Marker Set
 Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
-Reloading same scene! Destroying GuidComponents to prevent collisions...
-Unable to retrieve achievement state for FIRST_CREST, because Steam is not initialized
-Unable to update achievement progress for ALL_CRESTS, because Steam is not initialized
-Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
-Couldn't find a Game Manager, make sure one exists in the scene.
-NullReferenceException: Object reference not set to an instance of an object
-  at NPCControlBase.CallEndAction () [0x0001b] in <0b0a471467b440beb3f68fe57e78581a>:0 
-  at NPCControlBase.EndDialogue () [0x00026] in <0b0a471467b440beb3f68fe57e78581a>:0 
-  at InteractEvents.EndInteraction () [0x00007] in <0b0a471467b440beb3f68fe57e78581a>:0 
-  at RestBenchHelper.OnDisable () [0x00044] in <0b0a471467b440beb3f68fe57e78581a>:0 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 598)
+Unloading 349 unused Assets to reduce memory usage. Loaded Objects now: 119363.
+Total: 98.000600 ms (FindLiveObjects: 13.350600 ms CreateObjectMapping: 6.345600 ms MarkObjects: 76.691500 ms  DeleteObjects: 1.612300 ms)
 
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
 Couldn't find a Game Manager, make sure one exists in the scene.
 [Physics::Module] Cleanup current backned.
 [Physics::Module] Id: 0xf2b8ea05

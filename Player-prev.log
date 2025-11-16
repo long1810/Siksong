@@ -13,8 +13,8 @@ Direct3D:
     VRAM:     3986 MB
     Driver:   26.20.100.7926
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in 11.399 seconds
-- Finished resetting the current domain, in  0.006 seconds
+- Loaded All Assemblies, in  7.026 seconds
+- Finished resetting the current domain, in  0.003 seconds
 [Physics::Module] Selected backend.
 [Physics::Module] Name: PhysX
 [Physics::Module] Id: 0xf2b8ea05
@@ -25,41 +25,41 @@ Begin MonoManager ReloadAssembly
 XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 2.493000 ms
+UnloadTime: 0.477500 ms
 Steam initializing
 Steam failed to initialize
 Selected online subsystem SteamOnlineSubsystem
 Unloading 5 Unused Serialized files (Serialized files now loaded: 527)
-UnloadTime: 2.128000 ms
+UnloadTime: 1.863900 ms
 Discovered supported languages: DE, EN, ES, FR, IT, JA, KO, PT, RU, ZH
 Loaded saved language code 'EN'
 Restored language code 'EN'
 Couldn't find a Game Manager, make sure one exists in the scene.
 Couldn't find GameCameras, make sure one exists in the scene.
 Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 6108.
-Total: 5.332000 ms (FindLiveObjects: 0.595200 ms CreateObjectMapping: 0.640300 ms MarkObjects: 4.028200 ms  DeleteObjects: 0.067800 ms)
+Total: 4.991700 ms (FindLiveObjects: 0.328600 ms CreateObjectMapping: 0.693100 ms MarkObjects: 3.923800 ms  DeleteObjects: 0.046000 ms)
 
 Unloading 2 Unused Serialized files (Serialized files now loaded: 527)
 Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 13326.
-Total: 7.708900 ms (FindLiveObjects: 0.746100 ms CreateObjectMapping: 0.745500 ms MarkObjects: 6.176400 ms  DeleteObjects: 0.040300 ms)
+Total: 7.664800 ms (FindLiveObjects: 0.660200 ms CreateObjectMapping: 1.246500 ms MarkObjects: 5.729800 ms  DeleteObjects: 0.028000 ms)
 
 Unloading 1 Unused Serialized files (Serialized files now loaded: 579)
 Couldn't find GameCameras, make sure one exists in the scene.
 Couldn't find a Game Manager, make sure one exists in the scene.
-UnloadTime: 12.568200 ms
+UnloadTime: 7.458900 ms
 Loaded saved language code 'EN'
 Restored language code 'EN'
 Unloading 73 unused Assets to reduce memory usage. Loaded Objects now: 66301.
-Total: 52.626500 ms (FindLiveObjects: 7.134600 ms CreateObjectMapping: 3.890700 ms MarkObjects: 41.280200 ms  DeleteObjects: 0.320700 ms)
+Total: 47.566800 ms (FindLiveObjects: 4.493000 ms CreateObjectMapping: 3.917600 ms MarkObjects: 38.889500 ms  DeleteObjects: 0.266400 ms)
 
 MenuButton missing flashEffect!
 Making UI menu lean.
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Unloading 3 Unused Serialized files (Serialized files now loaded: 615)
-Unloading 118 unused Assets to reduce memory usage. Loaded Objects now: 121031.
-Total: 107.566400 ms (FindLiveObjects: 9.594100 ms CreateObjectMapping: 6.691900 ms MarkObjects: 89.215800 ms  DeleteObjects: 2.064000 ms)
+Unloading 3 Unused Serialized files (Serialized files now loaded: 590)
+Unloading 282 unused Assets to reduce memory usage. Loaded Objects now: 112430.
+Total: 95.978200 ms (FindLiveObjects: 9.867300 ms CreateObjectMapping: 6.487000 ms MarkObjects: 78.079300 ms  DeleteObjects: 1.544000 ms)
 
 Converting Vertex Colors from Color32 to Color.
 Converting Vertex Colors from Color32 to Color.
@@ -67,288 +67,291 @@ Converting Vertex Colors from Color32 to Color.
 Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
 Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
 Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Unloading 1 Unused Serialized files (Serialized files now loaded: 633)
-UnloadTime: 13.225100 ms
-Unloading 8985 unused Assets to reduce memory usage. Loaded Objects now: 131180.
-Total: 243.688600 ms (FindLiveObjects: 31.931400 ms CreateObjectMapping: 11.249700 ms MarkObjects: 149.076900 ms  DeleteObjects: 51.430100 ms)
-
-First video frame not zero: 4 (0.066667s). Result may be out of sync. Please make sure tracks all start at 0 in archive:/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5.resource
-Unloading 2 Unused Serialized files (Serialized files now loaded: 625)
-Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 136960.
-Total: 115.399600 ms (FindLiveObjects: 15.375200 ms CreateObjectMapping: 6.847600 ms MarkObjects: 92.799700 ms  DeleteObjects: 0.376900 ms)
-
-Unable to retrieve achievement state for FIRST_WISH, because Steam is not initialized
-Unable to retrieve achievement state for FIRST_WISH, because Steam is not initialized
-Unable to retrieve achievement state for FIRST_WISH, because Steam is not initialized
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Unloading 1 Unused Serialized files (Serialized files now loaded: 659)
-UnloadTime: 8.277000 ms
-First video frame not zero: 4 (0.066667s). Result may be out of sync. Please make sure tracks all start at 0 in archive:/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5.resource
-Unloading 6615 unused Assets to reduce memory usage. Loaded Objects now: 131377.
-Total: 235.991800 ms (FindLiveObjects: 21.474400 ms CreateObjectMapping: 9.328000 ms MarkObjects: 150.104400 ms  DeleteObjects: 55.084200 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 584)
-Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 140908.
-Total: 168.334800 ms (FindLiveObjects: 21.351800 ms CreateObjectMapping: 9.013800 ms MarkObjects: 137.465400 ms  DeleteObjects: 0.503100 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 579)
-UnloadTime: 11.099900 ms
-Unloading 3826 unused Assets to reduce memory usage. Loaded Objects now: 131301.
-Total: 160.957700 ms (FindLiveObjects: 19.837100 ms CreateObjectMapping: 16.685400 ms MarkObjects: 113.037500 ms  DeleteObjects: 11.397300 ms)
-
-First video frame not zero: 4 (0.066667s). Result may be out of sync. Please make sure tracks all start at 0 in archive:/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5.resource
 Unloading 1 Unused Serialized files (Serialized files now loaded: 596)
-Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 146477.
-Total: 148.050500 ms (FindLiveObjects: 20.141100 ms CreateObjectMapping: 9.030600 ms MarkObjects: 118.626500 ms  DeleteObjects: 0.251900 ms)
+UnloadTime: 10.332800 ms
+Unloading 6086 unused Assets to reduce memory usage. Loaded Objects now: 131129.
+Total: 133.229800 ms (FindLiveObjects: 13.424400 ms CreateObjectMapping: 4.684400 ms MarkObjects: 99.747900 ms  DeleteObjects: 15.372700 ms)
 
-Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
-Unloading 1 Unused Serialized files (Serialized files now loaded: 615)
-UnloadTime: 11.205100 ms
 First video frame not zero: 4 (0.066667s). Result may be out of sync. Please make sure tracks all start at 0 in archive:/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5.resource
-Unloading 6669 unused Assets to reduce memory usage. Loaded Objects now: 131592.
-Total: 209.903400 ms (FindLiveObjects: 36.690300 ms CreateObjectMapping: 5.953500 ms MarkObjects: 145.677400 ms  DeleteObjects: 21.581900 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 599)
-Unloading 48 unused Assets to reduce memory usage. Loaded Objects now: 142842.
-Total: 106.788500 ms (FindLiveObjects: 14.398800 ms CreateObjectMapping: 4.508900 ms MarkObjects: 87.101500 ms  DeleteObjects: 0.779000 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 584)
-UnloadTime: 7.382400 ms
-First video frame not zero: 4 (0.066667s). Result may be out of sync. Please make sure tracks all start at 0 in archive:/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5.resource
-Unloading 4150 unused Assets to reduce memory usage. Loaded Objects now: 133935.
-Total: 160.845100 ms (FindLiveObjects: 17.070200 ms CreateObjectMapping: 5.748900 ms MarkObjects: 128.741700 ms  DeleteObjects: 9.283800 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 599)
-Unloading 111 unused Assets to reduce memory usage. Loaded Objects now: 147526.
-Total: 106.242400 ms (FindLiveObjects: 11.442700 ms CreateObjectMapping: 4.123300 ms MarkObjects: 90.193900 ms  DeleteObjects: 0.482000 ms)
-
-Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
-Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
-Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
-Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
-Unloading 1 Unused Serialized files (Serialized files now loaded: 617)
-Unloading 3428 unused Assets to reduce memory usage. Loaded Objects now: 146660.
-Total: 145.371200 ms (FindLiveObjects: 11.884200 ms CreateObjectMapping: 4.256800 ms MarkObjects: 104.271200 ms  DeleteObjects: 24.958600 ms)
+Unloading 2 Unused Serialized files (Serialized files now loaded: 610)
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 146105.
+Total: 96.111300 ms (FindLiveObjects: 10.809500 ms CreateObjectMapping: 4.335900 ms MarkObjects: 80.736500 ms  DeleteObjects: 0.229000 ms)
 
 Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
-Cannot use 'linearVelocity' on a static body.
-Cannot use 'linearVelocity' on a static body.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 607)
+Unloading 2585 unused Assets to reduce memory usage. Loaded Objects now: 146440.
+Total: 127.437200 ms (FindLiveObjects: 12.200300 ms CreateObjectMapping: 4.255100 ms MarkObjects: 91.114400 ms  DeleteObjects: 19.867000 ms)
+
 Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
-Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
-Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 607)
+Unloading 2572 unused Assets to reduce memory usage. Loaded Objects now: 146493.
+Total: 123.879400 ms (FindLiveObjects: 12.684400 ms CreateObjectMapping: 5.863100 ms MarkObjects: 85.799900 ms  DeleteObjects: 19.531600 ms)
+
+Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 607)
+Unloading 2572 unused Assets to reduce memory usage. Loaded Objects now: 146538.
+Total: 126.033100 ms (FindLiveObjects: 14.918000 ms CreateObjectMapping: 4.173600 ms MarkObjects: 87.072900 ms  DeleteObjects: 19.868200 ms)
+
+Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 607)
+Unloading 2572 unused Assets to reduce memory usage. Loaded Objects now: 146580.
+Total: 128.166900 ms (FindLiveObjects: 12.617900 ms CreateObjectMapping: 4.212800 ms MarkObjects: 91.519500 ms  DeleteObjects: 19.816300 ms)
+
+Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 607)
+Unloading 2572 unused Assets to reduce memory usage. Loaded Objects now: 146641.
+Total: 132.164200 ms (FindLiveObjects: 12.217900 ms CreateObjectMapping: 4.208200 ms MarkObjects: 96.093000 ms  DeleteObjects: 19.644900 ms)
+
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 607)
+Unloading 2572 unused Assets to reduce memory usage. Loaded Objects now: 146681.
+Total: 129.034300 ms (FindLiveObjects: 11.997600 ms CreateObjectMapping: 4.759400 ms MarkObjects: 90.366600 ms  DeleteObjects: 21.910400 ms)
+
+Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 607)
+Unloading 2572 unused Assets to reduce memory usage. Loaded Objects now: 146723.
+Total: 129.619500 ms (FindLiveObjects: 12.630900 ms CreateObjectMapping: 4.433200 ms MarkObjects: 92.374100 ms  DeleteObjects: 20.180900 ms)
+
+Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 607)
+Unloading 2572 unused Assets to reduce memory usage. Loaded Objects now: 146832.
+Total: 129.462300 ms (FindLiveObjects: 11.776700 ms CreateObjectMapping: 4.535700 ms MarkObjects: 93.279700 ms  DeleteObjects: 19.869700 ms)
+
 Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
 Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Unloading 1 Unused Serialized files (Serialized files now loaded: 641)
-UnloadTime: 22.187700 ms
-First video frame not zero: 4 (0.066667s). Result may be out of sync. Please make sure tracks all start at 0 in archive:/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5.resource
-Unloading 8133 unused Assets to reduce memory usage. Loaded Objects now: 132407.
-Total: 246.798300 ms (FindLiveObjects: 21.160700 ms CreateObjectMapping: 10.285700 ms MarkObjects: 158.929800 ms  DeleteObjects: 56.421500 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 615)
-Unloading 83 unused Assets to reduce memory usage. Loaded Objects now: 141257.
-Total: 157.055000 ms (FindLiveObjects: 24.291500 ms CreateObjectMapping: 9.368200 ms MarkObjects: 121.220600 ms  DeleteObjects: 2.173900 ms)
-
-Unable to retrieve achievement state for FIRST_WISH, because Steam is not initialized
-Unable to update achievement progress for ALL_MASKS, because Steam is not initialized
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Unloading 1 Unused Serialized files (Serialized files now loaded: 633)
-UnloadTime: 7.631100 ms
-Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for archive:/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5.resource
-Unloading 6455 unused Assets to reduce memory usage. Loaded Objects now: 131685.
-Total: 194.178100 ms (FindLiveObjects: 17.072300 ms CreateObjectMapping: 8.507000 ms MarkObjects: 142.504500 ms  DeleteObjects: 26.094100 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 580)
-Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 141151.
-Total: 107.593900 ms (FindLiveObjects: 11.433800 ms CreateObjectMapping: 3.923600 ms MarkObjects: 91.830700 ms  DeleteObjects: 0.405400 ms)
-
-Using fallback 1 to find tilemap. Scene Bellshrine requires manual fixing.
-Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
-Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Unable to retrieve achievement state for FIRST_WISH, because Steam is not initialized
-Couldn't find transition point "door_caravanTravelEnd", falling back to first available: "right1"
-Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
-Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
-Cannot set the parent of the GameObject 'Water Point L' while activating or deactivating the parent GameObject 'Caravan Troupe Flea Swimmer'.
-Cannot set the parent of the GameObject 'Water Point R' while activating or deactivating the parent GameObject 'Caravan Troupe Flea Swimmer'.
-Cannot set the parent of the GameObject 'Dive Point' while activating or deactivating the parent GameObject 'Caravan Troupe Flea Swimmer'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Caravan Troupe Flea Swimmer'.
-Cannot set the parent of the GameObject 'Water Point L' while activating or deactivating the parent GameObject 'Caravan Troupe Flea Swimmer (1)'.
-Cannot set the parent of the GameObject 'Water Point R' while activating or deactivating the parent GameObject 'Caravan Troupe Flea Swimmer (1)'.
-Cannot set the parent of the GameObject 'Dive Point' while activating or deactivating the parent GameObject 'Caravan Troupe Flea Swimmer (1)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Caravan Troupe Flea Swimmer (1)'.
+Unable to retrieve achievement state for DEFEATED_TROBBIO, because Steam is not initialized
+Unable to unlock achievement DEFEATED_TROBBIO, because Steam is not initialized
 Unable to retrieve achievement state for FIRST_TOOL, because Steam is not initialized
 Unable to update achievement progress for ALL_TOOLS, because Steam is not initialized
-Couldn't find transition point "door1", falling back to first available: "right1"
-Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
-Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
-Cannot set the parent of the GameObject 'Water Point L' while activating or deactivating the parent GameObject 'Caravan Troupe Flea Swimmer'.
-Cannot set the parent of the GameObject 'Water Point R' while activating or deactivating the parent GameObject 'Caravan Troupe Flea Swimmer'.
-Cannot set the parent of the GameObject 'Dive Point' while activating or deactivating the parent GameObject 'Caravan Troupe Flea Swimmer'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Caravan Troupe Flea Swimmer'.
-Cannot set the parent of the GameObject 'Water Point L' while activating or deactivating the parent GameObject 'Caravan Troupe Flea Swimmer (1)'.
-Cannot set the parent of the GameObject 'Water Point R' while activating or deactivating the parent GameObject 'Caravan Troupe Flea Swimmer (1)'.
-Cannot set the parent of the GameObject 'Dive Point' while activating or deactivating the parent GameObject 'Caravan Troupe Flea Swimmer (1)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Caravan Troupe Flea Swimmer (1)'.
-Couldn't find transition point "door3", falling back to first available: "door5"
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Unloading 1 Unused Serialized files (Serialized files now loaded: 643)
-UnloadTime: 38.204100 ms
-Unloading 9880 unused Assets to reduce memory usage. Loaded Objects now: 131898.
-Total: 556.919100 ms (FindLiveObjects: 33.253100 ms CreateObjectMapping: 33.643300 ms MarkObjects: 328.827800 ms  DeleteObjects: 161.194400 ms)
-
-First video frame not zero: 4 (0.066667s). Result may be out of sync. Please make sure tracks all start at 0 in archive:/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5.resource
-Unloading 1 Unused Serialized files (Serialized files now loaded: 605)
-Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 146928.
-Total: 204.481700 ms (FindLiveObjects: 18.356700 ms CreateObjectMapping: 4.618100 ms MarkObjects: 180.416700 ms  DeleteObjects: 1.089500 ms)
-
-Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
-Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
-Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
+Cannot use 'linearVelocity' on a static body.
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Cannot use 'linearVelocity' on a static body.
+Coroutine couldn't be started because the the game object 'Slash Hit' is inactive!
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
-Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
-Unloading 1 Unused Serialized files (Serialized files now loaded: 615)
-UnloadTime: 12.355800 ms
-First video frame not zero: 4 (0.066667s). Result may be out of sync. Please make sure tracks all start at 0 in archive:/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5.resource
-Unloading 10173 unused Assets to reduce memory usage. Loaded Objects now: 132971.
-Total: 347.020200 ms (FindLiveObjects: 18.485200 ms CreateObjectMapping: 6.935400 ms MarkObjects: 145.663700 ms  DeleteObjects: 175.935600 ms)
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+NullReferenceException: Object reference not set to an instance of an object.
+  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
+  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 596)
-Unloading 74 unused Assets to reduce memory usage. Loaded Objects now: 141556.
-Total: 110.413700 ms (FindLiveObjects: 10.884500 ms CreateObjectMapping: 4.713000 ms MarkObjects: 94.078400 ms  DeleteObjects: 0.737300 ms)
+NullReferenceException: Object reference not set to an instance of an object.
+  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
+  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
 
-Unable to retrieve achievement state for FIRST_WISH, because Steam is not initialized
-Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for archive:/CAB-4c86b47ae5500a27be89ac060e3ea2b6/CAB-4c86b47ae5500a27be89ac060e3ea2b6.resource
-Coroutine couldn't be started because the the game object 'CutsceneScreen' is inactive!
-Couldn't find transition point "door3", falling back to first available: "door5"
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Unloading 1 Unused Serialized files (Serialized files now loaded: 633)
-UnloadTime: 9.014600 ms
-First video frame not zero: 4 (0.066667s). Result may be out of sync. Please make sure tracks all start at 0 in archive:/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5.resource
-Unloading 6496 unused Assets to reduce memory usage. Loaded Objects now: 132086.
-Total: 239.680300 ms (FindLiveObjects: 42.981900 ms CreateObjectMapping: 8.909100 ms MarkObjects: 153.515600 ms  DeleteObjects: 34.273300 ms)
+NullReferenceException: Object reference not set to an instance of an object.
+  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
+  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 596)
-Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 139857.
-Total: 139.520600 ms (FindLiveObjects: 15.760200 ms CreateObjectMapping: 4.876500 ms MarkObjects: 118.663200 ms  DeleteObjects: 0.220400 ms)
+NullReferenceException: Object reference not set to an instance of an object.
+  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
+  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 605)
-Unloading 1863 unused Assets to reduce memory usage. Loaded Objects now: 139863.
-Total: 131.562900 ms (FindLiveObjects: 11.519300 ms CreateObjectMapping: 4.180700 ms MarkObjects: 108.767400 ms  DeleteObjects: 7.095000 ms)
+NullReferenceException: Object reference not set to an instance of an object.
+  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
+  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 605)
-Unloading 1874 unused Assets to reduce memory usage. Loaded Objects now: 139869.
-Total: 132.453500 ms (FindLiveObjects: 12.661700 ms CreateObjectMapping: 4.141800 ms MarkObjects: 109.321600 ms  DeleteObjects: 6.328000 ms)
+NullReferenceException: Object reference not set to an instance of an object.
+  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
+  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
 
-Can not play a disabled audio source
-Unloading 1 Unused Serialized files (Serialized files now loaded: 601)
-Unloading 1159 unused Assets to reduce memory usage. Loaded Objects now: 139875.
-Total: 129.053100 ms (FindLiveObjects: 11.280900 ms CreateObjectMapping: 4.685700 ms MarkObjects: 107.375200 ms  DeleteObjects: 5.710800 ms)
+NullReferenceException: Object reference not set to an instance of an object.
+  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
+  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 606)
-Unloading 1853 unused Assets to reduce memory usage. Loaded Objects now: 139898.
-Total: 135.678400 ms (FindLiveObjects: 12.602400 ms CreateObjectMapping: 4.097500 ms MarkObjects: 111.811300 ms  DeleteObjects: 7.166900 ms)
+NullReferenceException: Object reference not set to an instance of an object.
+  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
+  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
 
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Unloading 1 Unused Serialized files (Serialized files now loaded: 628)
-Unloading 4958 unused Assets to reduce memory usage. Loaded Objects now: 139934.
-Total: 151.645700 ms (FindLiveObjects: 12.029300 ms CreateObjectMapping: 4.787100 ms MarkObjects: 115.205200 ms  DeleteObjects: 19.623700 ms)
+NullReferenceException: Object reference not set to an instance of an object.
+  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
+  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 601)
-Unloading 1868 unused Assets to reduce memory usage. Loaded Objects now: 139916.
-Total: 135.513400 ms (FindLiveObjects: 12.036300 ms CreateObjectMapping: 4.257700 ms MarkObjects: 112.585400 ms  DeleteObjects: 6.633500 ms)
+NullReferenceException: Object reference not set to an instance of an object.
+  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
+  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
 
-Cannot use 'linearVelocity' on a static body.
-Unable to retrieve achievement state for FLEAS_HALF, because Steam is not initialized
-Unable to unlock achievement FLEAS_HALF, because Steam is not initialized
-Unable to update achievement progress for FLEAS_HALF, because Steam is not initialized
-Unable to retrieve achievement state for FLEAS_HALF, because Steam is not initialized
-Unable to update achievement progress for FLEAS_HALF, because Steam is not initialized
-Unloading 1 Unused Serialized files (Serialized files now loaded: 628)
-Unloading 4941 unused Assets to reduce memory usage. Loaded Objects now: 139957.
-Total: 152.665600 ms (FindLiveObjects: 11.800600 ms CreateObjectMapping: 4.359100 ms MarkObjects: 115.957900 ms  DeleteObjects: 20.547700 ms)
+NullReferenceException: Object reference not set to an instance of an object.
+  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
+  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
 
-Unable to retrieve achievement state for DEFEATED_PHANTOM_1, because Steam is not initialized
-Unable to unlock achievement DEFEATED_PHANTOM_1, because Steam is not initialized
-Unable to retrieve achievement state for FIRST_SILK_SKILL, because Steam is not initialized
-Unable to update achievement progress for ALL_SILK_SKILLS, because Steam is not initialized
-Cannot use 'linearVelocity' on a static body.
-Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
-Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
+NullReferenceException: Object reference not set to an instance of an object.
+  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
+  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
+
+NullReferenceException: Object reference not set to an instance of an object.
+  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
+  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
+
+NullReferenceException: Object reference not set to an instance of an object.
+  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
+  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
+
+NullReferenceException: Object reference not set to an instance of an object.
+  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
+  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
+
+NullReferenceException: Object reference not set to an instance of an object.
+  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
+  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
+
+NullReferenceException: Object reference not set to an instance of an object.
+  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
+  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
+
+NullReferenceException: Object reference not set to an instance of an object.
+  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
+  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
+
+NullReferenceException: Object reference not set to an instance of an object.
+  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
+  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
+
+NullReferenceException: Object reference not set to an instance of an object.
+  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
+  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
+
+NullReferenceException: Object reference not set to an instance of an object.
+  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
+  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
+
+NullReferenceException: Object reference not set to an instance of an object.
+  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
+  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
+
+NullReferenceException: Object reference not set to an instance of an object.
+  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
+  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
+
+NullReferenceException: Object reference not set to an instance of an object.
+  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
+  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
+
+NullReferenceException: Object reference not set to an instance of an object.
+  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
+  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
+
+NullReferenceException: Object reference not set to an instance of an object.
+  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
+  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
+
+NullReferenceException: Object reference not set to an instance of an object.
+  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
+  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
+
+NullReferenceException: Object reference not set to an instance of an object.
+  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
+  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
+
+NullReferenceException: Object reference not set to an instance of an object.
+  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
+  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
+
+NullReferenceException: Object reference not set to an instance of an object.
+  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at UnityEngine.Transform.get_position () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at RecoilEnemiesToRadius.RecoilEnemy (RecoilEnemiesToRadius+EnemyData enemy) [0x00021] in <0b0a471467b440beb3f68fe57e78581a>:0 
+  at RecoilEnemiesToRadius.FixedUpdate () [0x00016] in <0b0a471467b440beb3f68fe57e78581a>:0 
+
+Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
+Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
+Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
+Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
+Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
+Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
+Hazard Respawn Trigger v2 (3) does not have a Hazard Respawn Marker Set
+Hazard Respawn Trigger v2 (2) does not have a Hazard Respawn Marker Set
+Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
+Reloading same scene! Destroying GuidComponents to prevent collisions...
+Unable to retrieve achievement state for FIRST_CREST, because Steam is not initialized
+Unable to update achievement progress for ALL_CRESTS, because Steam is not initialized
+Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
+Couldn't find a Game Manager, make sure one exists in the scene.
+NullReferenceException: Object reference not set to an instance of an object
+  at NPCControlBase.CallEndAction () [0x0001b] in <0b0a471467b440beb3f68fe57e78581a>:0 
+  at NPCControlBase.EndDialogue () [0x00026] in <0b0a471467b440beb3f68fe57e78581a>:0 
+  at InteractEvents.EndInteraction () [0x00007] in <0b0a471467b440beb3f68fe57e78581a>:0 
+  at RestBenchHelper.OnDisable () [0x00044] in <0b0a471467b440beb3f68fe57e78581a>:0 
+
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
 [Physics::Module] Cleanup current backned.
 [Physics::Module] Id: 0xf2b8ea05
 Input System module state changed to: ShutdownInProgress.
