@@ -1,20 +1,20 @@
-Mono path[0] = 'D:/Vui/hollow_knight_silksong/Hollow Knight Silksong/Hollow Knight Silksong_Data/Managed'
-Mono config path = 'D:/Vui/hollow_knight_silksong/Hollow Knight Silksong/MonoBleedingEdge/etc'
+Mono path[0] = 'F:/Games/Hollow Knight Silksong/Hollow Knight Silksong_Data/Managed'
+Mono config path = 'F:/Games/Hollow Knight Silksong/MonoBleedingEdge/etc'
 Input System module state changed to: Initialized.
 [Physics::Module] Initialized fallback backend.
 [Physics::Module] Id: 0xdecafbad
 Initialize engine version: 6000.0.50f1-uum-100966-branch1 (359a00488d30)
-[Subsystems] Discovering subsystems at path D:/Vui/hollow_knight_silksong/Hollow Knight Silksong/Hollow Knight Silksong_Data/UnitySubsystems
+[Subsystems] Discovering subsystems at path F:/Games/Hollow Knight Silksong/Hollow Knight Silksong_Data/UnitySubsystems
 GfxDevice: creating device client; kGfxThreadingModeThreaded
 Direct3D:
-    Version:  Direct3D 11.0 [level 11.1]
-    Renderer: Intel(R) UHD Graphics (ID=0x8a56)
-    Vendor:   Intel
-    VRAM:     3986 MB
-    Driver:   26.20.100.7926
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 710 (ID=0x128b)
+    Vendor:   NVIDIA
+    VRAM:     984 MB
+    Driver:   27.21.14.6109
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  8.191 seconds
-- Finished resetting the current domain, in  0.004 seconds
+- Loaded All Assemblies, in  0.167 seconds
+- Finished resetting the current domain, in  0.002 seconds
 [Physics::Module] Selected backend.
 [Physics::Module] Name: PhysX
 [Physics::Module] Id: 0xf2b8ea05
@@ -25,49 +25,289 @@ Begin MonoManager ReloadAssembly
 XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 3.600300 ms
+UnloadTime: 0.411800 ms
 Steam initializing
 Steam failed to initialize
 Selected online subsystem SteamOnlineSubsystem
 Unloading 5 Unused Serialized files (Serialized files now loaded: 527)
-UnloadTime: 3.564100 ms
+UnloadTime: 1.275000 ms
 Discovered supported languages: DE, EN, ES, FR, IT, JA, KO, PT, RU, ZH
 Loaded saved language code 'EN'
 Restored language code 'EN'
 Couldn't find a Game Manager, make sure one exists in the scene.
 Couldn't find GameCameras, make sure one exists in the scene.
 Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 6108.
-Total: 8.553700 ms (FindLiveObjects: 0.504600 ms CreateObjectMapping: 0.513500 ms MarkObjects: 7.439400 ms  DeleteObjects: 0.096000 ms)
+Total: 3.269400 ms (FindLiveObjects: 0.288600 ms CreateObjectMapping: 0.290500 ms MarkObjects: 2.664200 ms  DeleteObjects: 0.026000 ms)
 
 Unloading 2 Unused Serialized files (Serialized files now loaded: 527)
 Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 13326.
-Total: 17.507000 ms (FindLiveObjects: 1.503500 ms CreateObjectMapping: 1.228000 ms MarkObjects: 14.725700 ms  DeleteObjects: 0.049100 ms)
+Total: 6.105100 ms (FindLiveObjects: 0.506300 ms CreateObjectMapping: 0.808200 ms MarkObjects: 4.774100 ms  DeleteObjects: 0.016200 ms)
 
 Unloading 1 Unused Serialized files (Serialized files now loaded: 579)
 Couldn't find GameCameras, make sure one exists in the scene.
 Couldn't find a Game Manager, make sure one exists in the scene.
-UnloadTime: 13.943900 ms
+UnloadTime: 8.154100 ms
 Loaded saved language code 'EN'
 Restored language code 'EN'
-Unloading 73 unused Assets to reduce memory usage. Loaded Objects now: 66301.
-Total: 47.658000 ms (FindLiveObjects: 5.230900 ms CreateObjectMapping: 3.957600 ms MarkObjects: 38.169100 ms  DeleteObjects: 0.299800 ms)
+Unloading 73 unused Assets to reduce memory usage. Loaded Objects now: 66300.
+Total: 31.972300 ms (FindLiveObjects: 3.975200 ms CreateObjectMapping: 5.636400 ms MarkObjects: 22.070500 ms  DeleteObjects: 0.289900 ms)
 
 MenuButton missing flashEffect!
 Making UI menu lean.
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
-Unloading 3 Unused Serialized files (Serialized files now loaded: 598)
-Unloading 349 unused Assets to reduce memory usage. Loaded Objects now: 119363.
-Total: 98.000600 ms (FindLiveObjects: 13.350600 ms CreateObjectMapping: 6.345600 ms MarkObjects: 76.691500 ms  DeleteObjects: 1.612300 ms)
+Unloading 3 Unused Serialized files (Serialized files now loaded: 640)
+Unloading 112 unused Assets to reduce memory usage. Loaded Objects now: 141569.
+Total: 58.206900 ms (FindLiveObjects: 8.684400 ms CreateObjectMapping: 9.634500 ms MarkObjects: 39.058600 ms  DeleteObjects: 0.829300 ms)
 
 Converting Vertex Colors from Color32 to Color.
 Converting Vertex Colors from Color32 to Color.
 Converting Vertex Colors from Color32 to Color.
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Can not play a disabled audio source
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Can not play a disabled audio source
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Unloading 1 Unused Serialized files (Serialized files now loaded: 638)
+UnloadTime: 6.187400 ms
+First video frame not zero: 4 (0.066667s). Result may be out of sync. Please make sure tracks all start at 0 in archive:/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5.resource
+Unloading 13205 unused Assets to reduce memory usage. Loaded Objects now: 131776.
+Total: 138.027400 ms (FindLiveObjects: 11.688700 ms CreateObjectMapping: 11.254300 ms MarkObjects: 51.761500 ms  DeleteObjects: 63.322500 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 613)
+Unloading 47 unused Assets to reduce memory usage. Loaded Objects now: 139114.
+Total: 72.661300 ms (FindLiveObjects: 8.884900 ms CreateObjectMapping: 7.462700 ms MarkObjects: 55.702100 ms  DeleteObjects: 0.611400 ms)
+
+Can not play a disabled audio source
+Can not play a disabled audio source
+Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Cannot set the parent of the GameObject 'RetreatAway Range' while activating or deactivating the parent GameObject 'Crowman Juror Tiny Variant - Wild (5)'.
+Cannot set the parent of the GameObject 'RetreatAway Point' while activating or deactivating the parent GameObject 'Crowman Juror Tiny Variant - Wild (5)'.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+PD Variable SavedFlea_Greymoor_24 does not exist! This is fine if we're just calling this to display quest updated after bool set.
+Unable to retrieve achievement state for FLEAS_HALF, because Steam is not initialized
+Unable to update achievement progress for FLEAS_HALF, because Steam is not initialized
+PD Variable SavedFlea_Greymoor_24 does not exist! This is fine if we're just calling this to display quest updated after bool set.
+Unable to retrieve achievement state for FLEAS_HALF, because Steam is not initialized
+Unable to update achievement progress for FLEAS_HALF, because Steam is not initialized
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Roachkeeper Chef Tiny (2)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Roachkeeper Chef Tiny (2)).
+Unloading 1 Unused Serialized files (Serialized files now loaded: 646)
+Unloading 9613 unused Assets to reduce memory usage. Loaded Objects now: 137055.
+Total: 139.364000 ms (FindLiveObjects: 10.132000 ms CreateObjectMapping: 8.892000 ms MarkObjects: 55.467400 ms  DeleteObjects: 64.872400 ms)
+
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Roachkeeper Chef Tiny (2)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Roachkeeper Chef Tiny (2)).
+Unloading 1 Unused Serialized files (Serialized files now loaded: 646)
+Unloading 5265 unused Assets to reduce memory usage. Loaded Objects now: 137143.
+Total: 102.073400 ms (FindLiveObjects: 9.579400 ms CreateObjectMapping: 8.403100 ms MarkObjects: 53.971300 ms  DeleteObjects: 30.119400 ms)
+
+Unable to retrieve achievement state for FIRST_TOOL, because Steam is not initialized
+Unable to update achievement progress for ALL_TOOLS, because Steam is not initialized
+Cannot use 'linearVelocity' on a static body.
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Roachkeeper Chef Tiny (2)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Roachkeeper Chef Tiny (2)).
+Unloading 1 Unused Serialized files (Serialized files now loaded: 646)
+Unloading 4556 unused Assets to reduce memory usage. Loaded Objects now: 137154.
+Total: 97.680600 ms (FindLiveObjects: 9.773900 ms CreateObjectMapping: 8.344900 ms MarkObjects: 55.137200 ms  DeleteObjects: 24.424300 ms)
+
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Roachkeeper Chef Tiny (2)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Roachkeeper Chef Tiny (2)).
+Unloading 1 Unused Serialized files (Serialized files now loaded: 646)
+Unloading 4577 unused Assets to reduce memory usage. Loaded Objects now: 137202.
+Total: 99.350400 ms (FindLiveObjects: 9.118600 ms CreateObjectMapping: 8.408500 ms MarkObjects: 55.727400 ms  DeleteObjects: 26.095600 ms)
+
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Roachkeeper Chef Tiny (2)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Roachkeeper Chef Tiny (2)).
+Unloading 1 Unused Serialized files (Serialized files now loaded: 646)
+Unloading 4521 unused Assets to reduce memory usage. Loaded Objects now: 137215.
+Total: 101.256900 ms (FindLiveObjects: 9.509100 ms CreateObjectMapping: 8.404300 ms MarkObjects: 58.051400 ms  DeleteObjects: 25.291800 ms)
+
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Roachkeeper Chef Tiny (2)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Roachkeeper Chef Tiny (2)).
+Unloading 1 Unused Serialized files (Serialized files now loaded: 646)
+Unloading 4508 unused Assets to reduce memory usage. Loaded Objects now: 137225.
+Total: 99.105200 ms (FindLiveObjects: 9.811700 ms CreateObjectMapping: 8.332100 ms MarkObjects: 56.266300 ms  DeleteObjects: 24.694600 ms)
+
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Roachkeeper Chef Tiny (2)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Roachkeeper Chef Tiny (2)).
+Unloading 1 Unused Serialized files (Serialized files now loaded: 646)
+Unloading 4508 unused Assets to reduce memory usage. Loaded Objects now: 137238.
+Total: 98.486900 ms (FindLiveObjects: 9.064400 ms CreateObjectMapping: 8.174000 ms MarkObjects: 56.083000 ms  DeleteObjects: 25.165300 ms)
+
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Roachkeeper Chef Tiny (2)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Roachkeeper Chef Tiny (2)).
+Cannot use 'linearVelocity' on a static body.
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Unable to retrieve achievement state for FIRST_WISH, because Steam is not initialized
+Unable to retrieve achievement state for FIRST_TOOL, because Steam is not initialized
+Unable to update achievement progress for ALL_TOOLS, because Steam is not initialized
+Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
+Unable to update achievement progress for ALL_MAPS, because Steam is not initialized
+Could Not Create Action: : Dialogue: Churchkeeper:  (Maybe the script was removed?)
+Coroutine couldn't be started because the the game object 'Camera Wind Region' is inactive!
+Could Not Create Action: : Dialogue: Churchkeeper:  (Maybe the script was removed?)
+Coroutine couldn't be started because the the game object 'Camera Wind Region' is inactive!
+Started loading clips for Psalm Cylinder Librarian
+Started loading clips for Psalm Cylinder Ward
+Started loading clips for Psalm Cylinder Hang
+Started loading clips for Psalm Cylinder Grindle
+Started loading clips for Psalm Cylinder Library Roof
+Started loading clips for Librarian Melody Cylinder
+Finished loading gramaphone clip for Psalm Cylinder Librarian
+Finished loading gramaphone clip for Psalm Cylinder Ward
+Finished loading gramaphone clip for Psalm Cylinder Hang
+Finished loading gramaphone clip for Psalm Cylinder Grindle
+Finished loading gramaphone clip for Psalm Cylinder Library Roof
+Finished loading gramaphone clip for Librarian Melody Cylinder
+Finished loading needolin clip for Librarian Melody Cylinder
+Freed clips for Psalm Cylinder Librarian
+Freed clips for Psalm Cylinder Ward
+Freed clips for Psalm Cylinder Hang
+Freed clips for Psalm Cylinder Grindle
+Freed clips for Psalm Cylinder Library Roof
+Freed clips for Librarian Melody Cylinder
+Started loading clips for Psalm Cylinder Librarian
+Started loading clips for Psalm Cylinder Ward
+Started loading clips for Psalm Cylinder Hang
+Started loading clips for Psalm Cylinder Grindle
+Started loading clips for Psalm Cylinder Library Roof
+Started loading clips for Librarian Melody Cylinder
+Finished loading gramaphone clip for Psalm Cylinder Librarian
+Finished loading gramaphone clip for Psalm Cylinder Ward
+Finished loading gramaphone clip for Psalm Cylinder Hang
+Finished loading gramaphone clip for Psalm Cylinder Grindle
+Finished loading gramaphone clip for Psalm Cylinder Library Roof
+Finished loading gramaphone clip for Librarian Melody Cylinder
+Finished loading needolin clip for Librarian Melody Cylinder
+Freed clips for Psalm Cylinder Librarian
+Freed clips for Psalm Cylinder Ward
+Freed clips for Psalm Cylinder Hang
+Freed clips for Psalm Cylinder Grindle
+Freed clips for Psalm Cylinder Library Roof
+Freed clips for Librarian Melody Cylinder
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
 Couldn't find a Game Manager, make sure one exists in the scene.
 [Physics::Module] Cleanup current backned.
 [Physics::Module] Id: 0xf2b8ea05
